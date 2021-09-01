@@ -1,0 +1,9 @@
+{
+	"name": "ADFlivedemoAru-Dev",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4f7dc228-89d4-498b-bb2b-3f625f7af4c3",
+		"tenantId": "f2a3675c-83d9-4c12-928b-239bf6e78190"
+	}
+}
